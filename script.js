@@ -1,4 +1,4 @@
-const API_URL = "https://ankit-chatbot.up.railway.app";
+const API_URL = "http://localhost:8080/";
 
 async function sendMessage() {
     const inputElement = document.getElementById('user-input');
